@@ -1,0 +1,5 @@
+-increase opacity on hover of portfolio images
+-embed google maps link
+-fix box icons
+-fix bootstrap icons
+-pick some better quality images for some of the grainy ones
